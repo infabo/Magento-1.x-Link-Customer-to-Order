@@ -1,0 +1,4 @@
+app/code/local/Prominc/Adminhtml app/code/local/Prominc/Adminhtml
+app/code/local/Prominc/PromincLinkOrder app/code/local/Prominc/PromincLinkOrder
+app/design/adminhtml/default/default/template/prominclinkorder app/design/adminhtml/default/default/template/prominclinkorder
+app/etc/modules/Prominc_All.xml app/etc/modules/Prominc_All.xml
